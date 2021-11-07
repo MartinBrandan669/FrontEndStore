@@ -8,7 +8,7 @@ En el curso está basado en proyectos y explicaciones de lo más importante sobr
 
 Comienza desde lo más básico, HTML y CSS3 (Responsive Web Design). Continuando con JAVASCRPT, SQL y PHP. También se aborda JQUERY, AJAX Y JSON.
 
-En este primer proyecto se comienzan a ver las bases de HTML y CSS. Es una landing page con un formulario, iconos importados, el pseudo elemento hover de css, botones. Un proyecto bastante completo e interesante para ser la primera página realizada.
+En este proyecto se comienzan a ver las bases de HTML y CSS. Es una pagina que posee 3 paginas internas, (index, nosotros y producto) con iconos importados, el pseudo elemento hover de css, botones. Un proyecto entretenido para ir acuñando conocimientos cada vez mas completos.
 
 > https://www.udemy.com/course/desarrollo-web-completo-con-html5-css3-js-php-y-mysql/
 
